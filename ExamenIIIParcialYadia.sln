@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenIIIParcialYadia.Android", "ExamenIIIParcialYadia\ExamenIIIParcialYadia.Android\ExamenIIIParcialYadia.Android.csproj", "{BE65514D-8861-4B5E-8F15-D99EC8ACDCEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenIIIParcialYadia", "ExamenIIIParcialYadia\ExamenIIIParcialYadia\ExamenIIIParcialYadia.csproj", "{B5316615-DF03-4704-8741-D457BDC36DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE65514D-8861-4B5E-8F15-D99EC8ACDCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE65514D-8861-4B5E-8F15-D99EC8ACDCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE65514D-8861-4B5E-8F15-D99EC8ACDCEA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BE65514D-8861-4B5E-8F15-D99EC8ACDCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE65514D-8861-4B5E-8F15-D99EC8ACDCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE65514D-8861-4B5E-8F15-D99EC8ACDCEA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B5316615-DF03-4704-8741-D457BDC36DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5316615-DF03-4704-8741-D457BDC36DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5316615-DF03-4704-8741-D457BDC36DC4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B5316615-DF03-4704-8741-D457BDC36DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5316615-DF03-4704-8741-D457BDC36DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5316615-DF03-4704-8741-D457BDC36DC4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BCD3A3-A63F-46BB-9C7B-6BED5328E405}
+	EndGlobalSection
+EndGlobal
